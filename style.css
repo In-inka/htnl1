@@ -1,0 +1,18 @@
+.menu > li {
+  border: 1px solid tomato;
+}
+ul[title] {
+  color: teal;
+}
+.link:hover {
+  color: blue;
+  cursor: pointer;
+}
+.submenu::first-letter {
+  color: brown;
+}
+
+pre::selection {
+  color: #b69d9d;
+  background-color: #3fb5a7;
+}
